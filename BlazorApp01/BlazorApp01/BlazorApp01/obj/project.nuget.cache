@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0ZjvfDx8YQs=",
+  "dgSpecHash": "whgL1ypWTYw=",
   "success": true,
   "projectFilePath": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01\\BlazorApp01.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\huytran\\.nuget\\packages\\infisical.sdk\\2.3.7\\infisical.sdk.2.3.7.nupkg.sha512",
     "C:\\Users\\huytran\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.1\\microsoft.aspnetcore.authorization.9.0.1.nupkg.sha512",
     "C:\\Users\\huytran\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.1\\microsoft.aspnetcore.components.9.0.1.nupkg.sha512",
     "C:\\Users\\huytran\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\9.0.1\\microsoft.aspnetcore.components.analyzers.9.0.1.nupkg.sha512",
@@ -27,7 +28,9 @@
     "C:\\Users\\huytran\\.nuget\\packages\\microsoft.extensions.options\\9.0.1\\microsoft.extensions.options.9.0.1.nupkg.sha512",
     "C:\\Users\\huytran\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
     "C:\\Users\\huytran\\.nuget\\packages\\microsoft.jsinterop\\9.0.1\\microsoft.jsinterop.9.0.1.nupkg.sha512",
-    "C:\\Users\\huytran\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.1\\microsoft.jsinterop.webassembly.9.0.1.nupkg.sha512"
+    "C:\\Users\\huytran\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.1\\microsoft.jsinterop.webassembly.9.0.1.nupkg.sha512",
+    "C:\\Users\\huytran\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\huytran\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
   ],
   "logs": []
 }

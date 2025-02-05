@@ -98,3 +98,8 @@ D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01\obj\Deb
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01\obj\Debug\net9.0\BlazorApp01.pdb
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01\obj\Debug\net9.0\BlazorApp01.genruntimeconfig.cache
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01\obj\Debug\net9.0\ref\BlazorApp01.dll
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01\bin\Debug\net9.0\Infisical.Sdk.dll
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01\bin\Debug\net9.0\runtimes\linux-x64\native\libinfisical_c.so
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01\bin\Debug\net9.0\runtimes\osx-arm64\native\libinfisical_c.dylib
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01\bin\Debug\net9.0\runtimes\osx-x64\native\libinfisical_c.dylib
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01\bin\Debug\net9.0\runtimes\win-x64\native\infisical_c.dll

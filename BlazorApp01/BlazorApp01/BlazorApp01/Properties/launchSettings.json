@@ -8,7 +8,9 @@
         "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}",
         "applicationUrl": "http://localhost:5115",
         "environmentVariables": {
-          "ASPNETCORE_ENVIRONMENT": "Development"
+          "ASPNETCORE_ENVIRONMENT": "Development",
+          "INFISICAL_CLIENT_ID": "456aeb1b-eac8-4d31-9cde-6c70c6177e00",
+          "INFISICAL_CLIENT_SECRET": "ce0971f47fa459cbdf08e29c2ea347a5ec9dc43ca7ae0c98f2b10c347c32a6de"
         }
       },
       "https": {
@@ -18,7 +20,9 @@
         "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}",
         "applicationUrl": "https://localhost:7213;http://localhost:5115",
         "environmentVariables": {
-          "ASPNETCORE_ENVIRONMENT": "Development"
+          "ASPNETCORE_ENVIRONMENT": "Development",
+          "INFISICAL_CLIENT_ID": "456aeb1b-eac8-4d31-9cde-6c70c6177e00",
+          "INFISICAL_CLIENT_SECRET": "ce0971f47fa459cbdf08e29c2ea347a5ec9dc43ca7ae0c98f2b10c347c32a6de"
         }
       }
     }

@@ -1,7 +1,5 @@
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
-D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\BlazorApp01.Client.bnzk0vz5qi.pdb
-D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\BlazorApp01.Client.e2dcuuguf9.wasm
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.8o8n7iomrf.js
@@ -208,7 +206,6 @@ D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\System.Private.CoreLib.u3k7k03qne.wasm.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.f0dx7f7ser.wasm.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\System.Web.HttpUtility.jd5wcr9biz.wasm.gz
-D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\BlazorApp01.Client.e2dcuuguf9.wasm.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Options.hse9gm9r95.wasm.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\System.Private.Xml.9m32bkuaq9.wasm.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\System.Net.WebProxy.dy3uj3cuhy.wasm.gz
@@ -218,7 +215,6 @@ D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Extensions.849myor78y.wasm.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\System.IO.FileSystem.Primitives.7j619s2u6b.wasm.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\System.Private.Uri.h9vk2avn0v.wasm.gz
-D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\BlazorApp01.Client.bnzk0vz5qi.pdb.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.Cng.tg2su1vayp.wasm.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.wts7elsoj1.wasm.gz
@@ -1015,9 +1011,6 @@ D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\compressed\oartyhzwah-tjcz0u77k5.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\compressed\4fzhx5omv5-tptq2av103.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\compressed\2f3m9meylw-lfu7j35m59.gz
-D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\compressed\11hcrn2kgc-e2dcuuguf9.gz
-D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\compressed\1xx059v4l0-bnzk0vz5qi.gz
-D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\compressed\287405qpkj-6ku8jkc9tp.gz
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\staticwebassets.build.json
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\staticwebassets.development.json
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1032,3 +1025,10 @@ D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\refint\BlazorApp01.Client.dll
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\BlazorApp01.Client.pdb
 D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\ref\BlazorApp01.Client.dll
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\BlazorApp01.Client.ecgal5xexj.pdb
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\BlazorApp01.Client.glgvulci8f.wasm
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\BlazorApp01.Client.glgvulci8f.wasm.gz
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\bin\Debug\net9.0\wwwroot\_framework\BlazorApp01.Client.ecgal5xexj.pdb.gz
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\compressed\11hcrn2kgc-glgvulci8f.gz
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\compressed\1xx059v4l0-ecgal5xexj.gz
+D:\DevSource\Github\NetCoreDokploy01\BlazorApp01\BlazorApp01\BlazorApp01.Client\obj\Debug\net9.0\compressed\287405qpkj-zroai8zdu2.gz

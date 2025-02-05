@@ -136,6 +136,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Infisical.Sdk": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[9.0.1, )"

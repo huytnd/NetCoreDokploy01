@@ -9,6 +9,7 @@
 
     <ItemGroup>
         <ProjectReference Include="..\BlazorApp01.Client\BlazorApp01.Client.csproj"/>
+        <PackageReference Include="Infisical.Sdk" Version="2.3.7" />
         <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="9.0.1"/>
     </ItemGroup>
 

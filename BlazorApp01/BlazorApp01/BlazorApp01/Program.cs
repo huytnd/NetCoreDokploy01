@@ -1,5 +1,6 @@
 using BlazorApp01.Client.Pages;
 using BlazorApp01.Components;
+using Infisical.Sdk;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +8,21 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
+
+var infisicalSettings = new ClientSettings
+{
+    SiteUrl = builder.Configuration["Infisical:SiteUrl"],
+    Auth = new AuthenticationOptions
+    {
+        UniversalAuth = new UniversalAuthMethod
+        {
+            ClientId = Environment.GetEnvironmentVariable("INFISICAL_CLIENT_ID"),
+            ClientSecret = Environment.GetEnvironmentVariable("INFISICAL_CLIENT_SECRET")
+        }
+    }
+};
+
+builder.Services.AddSingleton(new InfisicalClient(infisicalSettings));
 
 var app = builder.Build();
 
@@ -22,8 +38,7 @@ else
     app.UseHsts();
 }
 
-app.UseHttpsRedirection();
-
+//app.UseHttpsRedirection();
 
 app.UseAntiforgery();
 

@@ -1,7 +1,33 @@
-﻿@page "/"
+﻿@using Infisical.Sdk
+
+@page "/"
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+
+<p>Secret: @_secret.SecretValue</p>
+
+@code {
+    [Inject]
+    InfisicalClient InfisicalClient { get; set; }
+    
+    [Inject]
+    IConfiguration Configuration { get; set; }
+
+    GetSecretResponseSecret _secret;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var options = new GetSecretOptions
+        {
+            SecretName = "POSTGRE_CONNECTION_STRING",
+            ProjectId = Configuration["Infisical:ProjectId"],
+            Environment = Configuration["Infisical:Environment"]
+        };
+
+        _secret = InfisicalClient.GetSecret(options);
+    }
+}

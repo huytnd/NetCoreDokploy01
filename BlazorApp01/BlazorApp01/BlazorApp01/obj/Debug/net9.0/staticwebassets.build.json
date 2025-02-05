@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xgd8ja3pjYk+cC0mr3pZNgCkO/iL9ukO924kr6xXkLQ=",
+  "Hash": "Y/NT5h81rNIjouMB6+cMcsp7N98g27zgxoHUYkGBlfs=",
   "Source": "BlazorApp01",
   "BasePath": "_content/BlazorApp01",
   "Mode": "Default",
@@ -50,8 +50,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "6ku8jkc9tp",
-      "Integrity": "tg+ocjdnTtxhSqduvs1XgbwWxYH+OE/U/0LdxRCTLbY=",
+      "Fingerprint": "zroai8zdu2",
+      "Integrity": "EYKXGJxoOqy3qdBMMCMNgslZ+B/j7M1DVisr4wN/z0Y=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -92,8 +92,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "bnzk0vz5qi",
-      "Integrity": "icKuNuk9coyql5guufbkg9BIwU0UY0p8MWmVBzihl78=",
+      "Fingerprint": "ecgal5xexj",
+      "Integrity": "wpUDhWjVEYTye2roI08XeJRwShFkJjja28Qs2myvtM8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.pdb"
@@ -113,8 +113,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "e2dcuuguf9",
-      "Integrity": "2pw3gHOea5PQzNjXxl7L1hmvQbJP7Z3eYD1Y2NhTg94=",
+      "Fingerprint": "glgvulci8f",
+      "Integrity": "PAhgRqSB3MqYj0yd/76HmiF0M9Y2iiPKnqoTuiuxpOI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.wasm"
@@ -4446,12 +4446,12 @@
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\0xii7phtpj-jd5wcr9biz.gz"
     },
     {
-      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-e2dcuuguf9.gz",
+      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-glgvulci8f.gz",
       "SourceId": "BlazorApp01.Client",
       "SourceType": "Project",
       "ContentRoot": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorApp01.Client#[.{fingerprint=e2dcuuguf9}]!.wasm.gz",
+      "RelativePath": "_framework/BlazorApp01.Client#[.{fingerprint=glgvulci8f}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4460,11 +4460,11 @@
       "RelatedAsset": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "b7eqry75gs",
-      "Integrity": "mcJ+w3U9jP2ke5UEd9fOBoEvtExcnpXyflxmea0zxcI=",
+      "Fingerprint": "1t1x4up5uu",
+      "Integrity": "ZRMTeHkAjrUMKxkDqxT/o87ga/x/Vj9POQePVgf1Yi0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-e2dcuuguf9.gz"
+      "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-glgvulci8f.gz"
     },
     {
       "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\12wte22usj-hse9gm9r95.gz",
@@ -4656,12 +4656,12 @@
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1u3a69uxck-h9vk2avn0v.gz"
     },
     {
-      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-bnzk0vz5qi.gz",
+      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-ecgal5xexj.gz",
       "SourceId": "BlazorApp01.Client",
       "SourceType": "Project",
       "ContentRoot": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorApp01.Client#[.{fingerprint=bnzk0vz5qi}]!.pdb.gz",
+      "RelativePath": "_framework/BlazorApp01.Client#[.{fingerprint=ecgal5xexj}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4670,14 +4670,14 @@
       "RelatedAsset": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mtbo8n4plj",
-      "Integrity": "2pW0sqH9/Y9HD89pFGhkN1UPZ04Ng23TbsStjQ/ffxg=",
+      "Fingerprint": "ffb9vb6d1b",
+      "Integrity": "5TKJ6/tnOOnnBQGh5PuJPJZi5Iv5K6uggvFcVVbEebo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-bnzk0vz5qi.gz"
+      "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-ecgal5xexj.gz"
     },
     {
-      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-6ku8jkc9tp.gz",
+      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-zroai8zdu2.gz",
       "SourceId": "BlazorApp01.Client",
       "SourceType": "Project",
       "ContentRoot": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -4691,11 +4691,11 @@
       "RelatedAsset": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pnu6yee7d3",
-      "Integrity": "SyV/qIyrsKOeuJiZOh/LDVvf6qBySmpQE5xUOtq0Q7c=",
+      "Fingerprint": "uylchlq8ub",
+      "Integrity": "ykCwLcAQf+HTG7edebuEBP9CRrFuhdBCDDQ+2jr84Rk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-6ku8jkc9tp.gz"
+      "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-zroai8zdu2.gz"
     },
     {
       "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\2c7d98k0e8-tg2su1vayp.gz",
@@ -10707,28 +10707,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tg+ocjdnTtxhSqduvs1XgbwWxYH+OE/U/0LdxRCTLbY=\""
+          "Value": "\"EYKXGJxoOqy3qdBMMCMNgslZ+B/j7M1DVisr4wN/z0Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Wed, 05 Feb 2025 03:44:51 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tg+ocjdnTtxhSqduvs1XgbwWxYH+OE/U/0LdxRCTLbY="
+          "Value": "sha256-EYKXGJxoOqy3qdBMMCMNgslZ+B/j7M1DVisr4wN/z0Y="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-6ku8jkc9tp.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-zroai8zdu2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081050413"
+          "Quality": "0.000081030711"
         }
       ],
       "ResponseHeaders": [
@@ -10746,15 +10746,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12337"
+          "Value": "12340"
         },
         {
           "Name": "ETag",
-          "Value": "\"SyV/qIyrsKOeuJiZOh/LDVvf6qBySmpQE5xUOtq0Q7c=\""
+          "Value": "\"ykCwLcAQf+HTG7edebuEBP9CRrFuhdBCDDQ+2jr84Rk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Wed, 05 Feb 2025 03:43:32 GMT"
         },
         {
           "Name": "Vary",
@@ -10766,19 +10766,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"tg+ocjdnTtxhSqduvs1XgbwWxYH+OE/U/0LdxRCTLbY=\""
+          "Value": "W/\"EYKXGJxoOqy3qdBMMCMNgslZ+B/j7M1DVisr4wN/z0Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tg+ocjdnTtxhSqduvs1XgbwWxYH+OE/U/0LdxRCTLbY="
+          "Value": "sha256-EYKXGJxoOqy3qdBMMCMNgslZ+B/j7M1DVisr4wN/z0Y="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-6ku8jkc9tp.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-zroai8zdu2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10795,7 +10795,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12337"
+          "Value": "12340"
         },
         {
           "Name": "Content-Type",
@@ -10803,11 +10803,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SyV/qIyrsKOeuJiZOh/LDVvf6qBySmpQE5xUOtq0Q7c=\""
+          "Value": "\"ykCwLcAQf+HTG7edebuEBP9CRrFuhdBCDDQ+2jr84Rk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Wed, 05 Feb 2025 03:43:32 GMT"
         },
         {
           "Name": "Vary",
@@ -10817,7 +10817,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SyV/qIyrsKOeuJiZOh/LDVvf6qBySmpQE5xUOtq0Q7c="
+          "Value": "sha256-ykCwLcAQf+HTG7edebuEBP9CRrFuhdBCDDQ+2jr84Rk="
         }
       ]
     },
@@ -10891,7 +10891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Wed, 11 Dec 2024 06:26:02 GMT"
         },
         {
           "Name": "Vary",
@@ -10944,7 +10944,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Wed, 11 Dec 2024 06:26:02 GMT"
         },
         {
           "Name": "Vary",
@@ -10959,7 +10959,7 @@
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.bnzk0vz5qi.pdb",
+      "Route": "_framework/BlazorApp01.Client.ecgal5xexj.pdb",
       "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10981,21 +10981,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"icKuNuk9coyql5guufbkg9BIwU0UY0p8MWmVBzihl78=\""
+          "Value": "\"wpUDhWjVEYTye2roI08XeJRwShFkJjja28Qs2myvtM8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:50 GMT"
+          "Value": "Tue, 21 Jan 2025 09:55:59 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bnzk0vz5qi"
+          "Value": "ecgal5xexj"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-icKuNuk9coyql5guufbkg9BIwU0UY0p8MWmVBzihl78="
+          "Value": "sha256-wpUDhWjVEYTye2roI08XeJRwShFkJjja28Qs2myvtM8="
         },
         {
           "Name": "label",
@@ -11004,13 +11004,13 @@
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.bnzk0vz5qi.pdb",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-bnzk0vz5qi.gz",
+      "Route": "_framework/BlazorApp01.Client.ecgal5xexj.pdb",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-ecgal5xexj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000103337811"
+          "Quality": "0.000103316458"
         }
       ],
       "ResponseHeaders": [
@@ -11028,15 +11028,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9676"
+          "Value": "9678"
         },
         {
           "Name": "ETag",
-          "Value": "\"2pW0sqH9/Y9HD89pFGhkN1UPZ04Ng23TbsStjQ/ffxg=\""
+          "Value": "\"5TKJ6/tnOOnnBQGh5PuJPJZi5Iv5K6uggvFcVVbEebo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 21 Jan 2025 09:56:01 GMT"
         },
         {
           "Name": "Vary",
@@ -11048,17 +11048,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"icKuNuk9coyql5guufbkg9BIwU0UY0p8MWmVBzihl78=\""
+          "Value": "W/\"wpUDhWjVEYTye2roI08XeJRwShFkJjja28Qs2myvtM8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bnzk0vz5qi"
+          "Value": "ecgal5xexj"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-icKuNuk9coyql5guufbkg9BIwU0UY0p8MWmVBzihl78="
+          "Value": "sha256-wpUDhWjVEYTye2roI08XeJRwShFkJjja28Qs2myvtM8="
         },
         {
           "Name": "label",
@@ -11067,8 +11067,8 @@
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.bnzk0vz5qi.pdb.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-bnzk0vz5qi.gz",
+      "Route": "_framework/BlazorApp01.Client.ecgal5xexj.pdb.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-ecgal5xexj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11085,7 +11085,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9676"
+          "Value": "9678"
         },
         {
           "Name": "Content-Type",
@@ -11093,11 +11093,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2pW0sqH9/Y9HD89pFGhkN1UPZ04Ng23TbsStjQ/ffxg=\""
+          "Value": "\"5TKJ6/tnOOnnBQGh5PuJPJZi5Iv5K6uggvFcVVbEebo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 21 Jan 2025 09:56:01 GMT"
         },
         {
           "Name": "Vary",
@@ -11107,11 +11107,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bnzk0vz5qi"
+          "Value": "ecgal5xexj"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2pW0sqH9/Y9HD89pFGhkN1UPZ04Ng23TbsStjQ/ffxg="
+          "Value": "sha256-5TKJ6/tnOOnnBQGh5PuJPJZi5Iv5K6uggvFcVVbEebo="
         },
         {
           "Name": "label",
@@ -11120,7 +11120,7 @@
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.e2dcuuguf9.wasm",
+      "Route": "_framework/BlazorApp01.Client.glgvulci8f.wasm",
       "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11142,21 +11142,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2pw3gHOea5PQzNjXxl7L1hmvQbJP7Z3eYD1Y2NhTg94=\""
+          "Value": "\"PAhgRqSB3MqYj0yd/76HmiF0M9Y2iiPKnqoTuiuxpOI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:51 GMT"
+          "Value": "Tue, 21 Jan 2025 09:55:59 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e2dcuuguf9"
+          "Value": "glgvulci8f"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2pw3gHOea5PQzNjXxl7L1hmvQbJP7Z3eYD1Y2NhTg94="
+          "Value": "sha256-PAhgRqSB3MqYj0yd/76HmiF0M9Y2iiPKnqoTuiuxpOI="
         },
         {
           "Name": "label",
@@ -11165,13 +11165,13 @@
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.e2dcuuguf9.wasm",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-e2dcuuguf9.gz",
+      "Route": "_framework/BlazorApp01.Client.glgvulci8f.wasm",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-glgvulci8f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000267022697"
+          "Quality": "0.000266595575"
         }
       ],
       "ResponseHeaders": [
@@ -11189,15 +11189,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3744"
+          "Value": "3750"
         },
         {
           "Name": "ETag",
-          "Value": "\"mcJ+w3U9jP2ke5UEd9fOBoEvtExcnpXyflxmea0zxcI=\""
+          "Value": "\"ZRMTeHkAjrUMKxkDqxT/o87ga/x/Vj9POQePVgf1Yi0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 21 Jan 2025 09:56:01 GMT"
         },
         {
           "Name": "Vary",
@@ -11209,17 +11209,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2pw3gHOea5PQzNjXxl7L1hmvQbJP7Z3eYD1Y2NhTg94=\""
+          "Value": "W/\"PAhgRqSB3MqYj0yd/76HmiF0M9Y2iiPKnqoTuiuxpOI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e2dcuuguf9"
+          "Value": "glgvulci8f"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2pw3gHOea5PQzNjXxl7L1hmvQbJP7Z3eYD1Y2NhTg94="
+          "Value": "sha256-PAhgRqSB3MqYj0yd/76HmiF0M9Y2iiPKnqoTuiuxpOI="
         },
         {
           "Name": "label",
@@ -11228,8 +11228,8 @@
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.e2dcuuguf9.wasm.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-e2dcuuguf9.gz",
+      "Route": "_framework/BlazorApp01.Client.glgvulci8f.wasm.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-glgvulci8f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11246,7 +11246,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3744"
+          "Value": "3750"
         },
         {
           "Name": "Content-Type",
@@ -11254,11 +11254,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mcJ+w3U9jP2ke5UEd9fOBoEvtExcnpXyflxmea0zxcI=\""
+          "Value": "\"ZRMTeHkAjrUMKxkDqxT/o87ga/x/Vj9POQePVgf1Yi0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 21 Jan 2025 09:56:01 GMT"
         },
         {
           "Name": "Vary",
@@ -11268,11 +11268,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e2dcuuguf9"
+          "Value": "glgvulci8f"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mcJ+w3U9jP2ke5UEd9fOBoEvtExcnpXyflxmea0zxcI="
+          "Value": "sha256-ZRMTeHkAjrUMKxkDqxT/o87ga/x/Vj9POQePVgf1Yi0="
         },
         {
           "Name": "label",
@@ -11303,28 +11303,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"icKuNuk9coyql5guufbkg9BIwU0UY0p8MWmVBzihl78=\""
+          "Value": "\"wpUDhWjVEYTye2roI08XeJRwShFkJjja28Qs2myvtM8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:50 GMT"
+          "Value": "Tue, 21 Jan 2025 09:55:59 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-icKuNuk9coyql5guufbkg9BIwU0UY0p8MWmVBzihl78="
+          "Value": "sha256-wpUDhWjVEYTye2roI08XeJRwShFkJjja28Qs2myvtM8="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp01.Client.pdb",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-bnzk0vz5qi.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-ecgal5xexj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000103337811"
+          "Quality": "0.000103316458"
         }
       ],
       "ResponseHeaders": [
@@ -11342,15 +11342,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9676"
+          "Value": "9678"
         },
         {
           "Name": "ETag",
-          "Value": "\"2pW0sqH9/Y9HD89pFGhkN1UPZ04Ng23TbsStjQ/ffxg=\""
+          "Value": "\"5TKJ6/tnOOnnBQGh5PuJPJZi5Iv5K6uggvFcVVbEebo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 21 Jan 2025 09:56:01 GMT"
         },
         {
           "Name": "Vary",
@@ -11362,19 +11362,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"icKuNuk9coyql5guufbkg9BIwU0UY0p8MWmVBzihl78=\""
+          "Value": "W/\"wpUDhWjVEYTye2roI08XeJRwShFkJjja28Qs2myvtM8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-icKuNuk9coyql5guufbkg9BIwU0UY0p8MWmVBzihl78="
+          "Value": "sha256-wpUDhWjVEYTye2roI08XeJRwShFkJjja28Qs2myvtM8="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp01.Client.pdb.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-bnzk0vz5qi.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-ecgal5xexj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11391,7 +11391,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9676"
+          "Value": "9678"
         },
         {
           "Name": "Content-Type",
@@ -11399,11 +11399,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2pW0sqH9/Y9HD89pFGhkN1UPZ04Ng23TbsStjQ/ffxg=\""
+          "Value": "\"5TKJ6/tnOOnnBQGh5PuJPJZi5Iv5K6uggvFcVVbEebo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 21 Jan 2025 09:56:01 GMT"
         },
         {
           "Name": "Vary",
@@ -11413,7 +11413,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2pW0sqH9/Y9HD89pFGhkN1UPZ04Ng23TbsStjQ/ffxg="
+          "Value": "sha256-5TKJ6/tnOOnnBQGh5PuJPJZi5Iv5K6uggvFcVVbEebo="
         }
       ]
     },
@@ -11440,28 +11440,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2pw3gHOea5PQzNjXxl7L1hmvQbJP7Z3eYD1Y2NhTg94=\""
+          "Value": "\"PAhgRqSB3MqYj0yd/76HmiF0M9Y2iiPKnqoTuiuxpOI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:51 GMT"
+          "Value": "Tue, 21 Jan 2025 09:55:59 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2pw3gHOea5PQzNjXxl7L1hmvQbJP7Z3eYD1Y2NhTg94="
+          "Value": "sha256-PAhgRqSB3MqYj0yd/76HmiF0M9Y2iiPKnqoTuiuxpOI="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp01.Client.wasm",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-e2dcuuguf9.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-glgvulci8f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000267022697"
+          "Quality": "0.000266595575"
         }
       ],
       "ResponseHeaders": [
@@ -11479,15 +11479,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3744"
+          "Value": "3750"
         },
         {
           "Name": "ETag",
-          "Value": "\"mcJ+w3U9jP2ke5UEd9fOBoEvtExcnpXyflxmea0zxcI=\""
+          "Value": "\"ZRMTeHkAjrUMKxkDqxT/o87ga/x/Vj9POQePVgf1Yi0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 21 Jan 2025 09:56:01 GMT"
         },
         {
           "Name": "Vary",
@@ -11499,19 +11499,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2pw3gHOea5PQzNjXxl7L1hmvQbJP7Z3eYD1Y2NhTg94=\""
+          "Value": "W/\"PAhgRqSB3MqYj0yd/76HmiF0M9Y2iiPKnqoTuiuxpOI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2pw3gHOea5PQzNjXxl7L1hmvQbJP7Z3eYD1Y2NhTg94="
+          "Value": "sha256-PAhgRqSB3MqYj0yd/76HmiF0M9Y2iiPKnqoTuiuxpOI="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp01.Client.wasm.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-e2dcuuguf9.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-glgvulci8f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11528,7 +11528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3744"
+          "Value": "3750"
         },
         {
           "Name": "Content-Type",
@@ -11536,11 +11536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mcJ+w3U9jP2ke5UEd9fOBoEvtExcnpXyflxmea0zxcI=\""
+          "Value": "\"ZRMTeHkAjrUMKxkDqxT/o87ga/x/Vj9POQePVgf1Yi0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 21 Jan 2025 09:56:01 GMT"
         },
         {
           "Name": "Vary",
@@ -11550,7 +11550,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mcJ+w3U9jP2ke5UEd9fOBoEvtExcnpXyflxmea0zxcI="
+          "Value": "sha256-ZRMTeHkAjrUMKxkDqxT/o87ga/x/Vj9POQePVgf1Yi0="
         }
       ]
     },
@@ -11624,7 +11624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
         },
         {
           "Name": "Vary",
@@ -11677,7 +11677,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
         },
         {
           "Name": "Vary",
@@ -11769,7 +11769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
         },
         {
           "Name": "Vary",
@@ -11830,7 +11830,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
         },
         {
           "Name": "Vary",
@@ -11922,7 +11922,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
         },
         {
           "Name": "Vary",
@@ -11975,7 +11975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
         },
         {
           "Name": "Vary",
@@ -12663,7 +12663,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
         },
         {
           "Name": "Vary",
@@ -12724,7 +12724,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:00 GMT"
         },
         {
           "Name": "Vary",
@@ -12953,7 +12953,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
         },
         {
           "Name": "Vary",
@@ -13006,7 +13006,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
         },
         {
           "Name": "Vary",
@@ -13098,7 +13098,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
         },
         {
           "Name": "Vary",
@@ -13159,7 +13159,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 03:01:52 GMT"
+          "Value": "Tue, 10 Dec 2024 21:10:06 GMT"
         },
         {
           "Name": "Vary",
