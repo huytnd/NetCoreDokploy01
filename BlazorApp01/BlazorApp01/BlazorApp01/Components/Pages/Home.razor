@@ -13,9 +13,6 @@ Welcome to your new app.
 @code {
     [Inject]
     InfisicalClient InfisicalClient { get; set; }
-    
-    [Inject]
-    IConfiguration Configuration { get; set; }
 
     GetSecretResponseSecret _secret;
 
@@ -24,8 +21,8 @@ Welcome to your new app.
         var options = new GetSecretOptions
         {
             SecretName = "POSTGRE_CONNECTION_STRING",
-            ProjectId = Configuration["Infisical:ProjectId"],
-            Environment = Configuration["Infisical:Environment"]
+            ProjectId = Environment.GetEnvironmentVariable("INFISICAL_PROJECT_ID"),
+            Environment = Environment.GetEnvironmentVariable("INFISICAL_PROJECT_ENV")
         };
 
         _secret = InfisicalClient.GetSecret(options);
