@@ -23,7 +23,7 @@
         "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}",
         "applicationUrl": "https://localhost:7213;http://localhost:5115",
         "environmentVariables": {
-          "ASPNETCORE_ENVIRONMENT": "Production",
+          "ASPNETCORE_ENVIRONMENT": "Development",
           "INFISICAL_SITE_URL": "https://infisical.huytnd.io.vn",
           "INFISICAL_PROJECT_ID": "5549136b-3605-4bcf-bf36-ae08798b81c8",
           "INFISICAL_PROJECT_ENV": "dev",
