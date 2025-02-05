@@ -4,6 +4,12 @@
     build:
       context: .
       dockerfile: BlazorApp01/BlazorApp01/Dockerfile
+    environment:
+      - INFISICAL_SITE_URL=${INFISICAL_SITE_URL}
+      - INFISICAL_PROJECT_ID=${INFISICAL_PROJECT_ID}
+      - INFISICAL_PROJECT_ENV=${INFISICAL_PROJECT_ENV}
+      - INFISICAL_CLIENT_ID=${INFISICAL_CLIENT_ID}
+      - INFISICAL_CLIENT_SECRET=${INFISICAL_CLIENT_SECRET}
 
   blazorapp01.client:
     image: blazorapp01.client

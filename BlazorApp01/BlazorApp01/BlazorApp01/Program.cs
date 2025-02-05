@@ -11,6 +11,7 @@ builder.Services.AddRazorComponents()
 var infisicalSettings = new ClientSettings
 {
     SiteUrl = Environment.GetEnvironmentVariable("INFISICAL_SITE_URL") ?? string.Empty,
+    
     Auth = new AuthenticationOptions
     {
         UniversalAuth = new UniversalAuthMethod
