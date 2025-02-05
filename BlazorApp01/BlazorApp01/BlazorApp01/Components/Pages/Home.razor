@@ -17,19 +17,19 @@ Welcome to your new app.
 
 @code {
     [Inject]
-    InfisicalClient InfisicalClient { get; set; }
+    InfisicalClient? InfisicalClient { get; set; }
 
-    GetSecretResponseSecret _secret;
+    GetSecretResponseSecret? _secret;
 
     protected override async Task OnInitializedAsync()
     {
         var options = new GetSecretOptions
         {
             SecretName = "POSTGRE_CONNECTION_STRING",
-            ProjectId = Environment.GetEnvironmentVariable("INFISICAL_PROJECT_ID"),
-            Environment = Environment.GetEnvironmentVariable("INFISICAL_PROJECT_ENV")
+            ProjectId = Environment.GetEnvironmentVariable("INFISICAL_PROJECT_ID") ?? string.Empty,
+            Environment = Environment.GetEnvironmentVariable("INFISICAL_PROJECT_ENV") ?? string.Empty
         };
 
-        _secret = InfisicalClient.GetSecret(options);
+        _secret = InfisicalClient?.GetSecret(options);
     }
 }

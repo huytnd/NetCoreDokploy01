@@ -1,4 +1,3 @@
-using BlazorApp01.Client.Pages;
 using BlazorApp01.Components;
 using Infisical.Sdk;
 
@@ -11,13 +10,13 @@ builder.Services.AddRazorComponents()
 
 var infisicalSettings = new ClientSettings
 {
-    SiteUrl = Environment.GetEnvironmentVariable("INFISICAL_SITE_URL"),
+    SiteUrl = Environment.GetEnvironmentVariable("INFISICAL_SITE_URL") ?? string.Empty,
     Auth = new AuthenticationOptions
     {
         UniversalAuth = new UniversalAuthMethod
         {
-            ClientId = Environment.GetEnvironmentVariable("INFISICAL_CLIENT_ID"),
-            ClientSecret = Environment.GetEnvironmentVariable("INFISICAL_CLIENT_SECRET")
+            ClientId = Environment.GetEnvironmentVariable("INFISICAL_CLIENT_ID") ?? string.Empty,
+            ClientSecret = Environment.GetEnvironmentVariable("INFISICAL_CLIENT_SECRET") ?? string.Empty
         }
     }
 };
