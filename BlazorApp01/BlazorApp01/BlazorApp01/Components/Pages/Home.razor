@@ -8,7 +8,12 @@
 
 Welcome to your new app.
 
+<p>@Environment.GetEnvironmentVariable("INFISICAL_PROJECT_ID")</p>
+<p>@Environment.GetEnvironmentVariable("INFISICAL_PROJECT_ENV")</p>
+
+<!--
 <p>Secret: @_secret.SecretValue</p>
+-->
 
 @code {
     [Inject]

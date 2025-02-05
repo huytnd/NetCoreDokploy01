@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bFcdeV5lpQtnfOTRiIJvDSbbpmb67DhoNrhCEoVKH2U=",
+  "Hash": "ZuPnBGkAx6h41K3AeBM+Ht+eHPpkWvlJoHw1uKLh2Ow=",
   "Source": "BlazorApp01.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "48eucm4vz4",
-      "Integrity": "fLijn6NyjWbjmRBA1Dzhr8UwSqApcHQYFakmyWORzAI=",
+      "Fingerprint": "f9o1loampu",
+      "Integrity": "7Rm0ZDjnuNOLBQtssqC53MDTPC0pVOXrmYQ1XrG1/V8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "uuzzf2dbo2",
-      "Integrity": "uhjA1/FucVWP+IxBSylgvH2WhXOwmWBmkTZDMHfxFT0=",
+      "Fingerprint": "q1c7rlkmfz",
+      "Integrity": "vmeaSWrdJLMvO8t1e3Ot7JSHq7ek2isLXYSOH4FBqa8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\BlazorApp01.Client.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "mnef9peaub",
-      "Integrity": "8gRnf1nE+NI8tJvS2uRUAXOg0aTHRxzyC3peBQB4gH4=",
+      "Fingerprint": "1vuguujzvt",
+      "Integrity": "w/nPPcA3VybglbAEUvCpadI+fH6XlewZIpgpUAe/WLA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\webcil\\BlazorApp01.Client.wasm"
@@ -4427,12 +4427,12 @@
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Web.HttpUtility.wasm"
     },
     {
-      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-mnef9peaub.gz",
+      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-1vuguujzvt.gz",
       "SourceId": "BlazorApp01.Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorApp01.Client#[.{fingerprint=mnef9peaub}]!.wasm.gz",
+      "RelativePath": "_framework/BlazorApp01.Client#[.{fingerprint=1vuguujzvt}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4441,8 +4441,8 @@
       "RelatedAsset": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "832atghngi",
-      "Integrity": "FHYYgV/idHkCn1oAMIlc6GBMHw7iQnw6Km2g6t8nmIA=",
+      "Fingerprint": "p0hhdojt6s",
+      "Integrity": "aW3K5ekyU688e5UBgGNiDgmsVzl/LTq9HSSf5PbHAOw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.wasm"
@@ -4637,12 +4637,12 @@
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Private.Uri.wasm"
     },
     {
-      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-uuzzf2dbo2.gz",
+      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-q1c7rlkmfz.gz",
       "SourceId": "BlazorApp01.Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorApp01.Client#[.{fingerprint=uuzzf2dbo2}]!.pdb.gz",
+      "RelativePath": "_framework/BlazorApp01.Client#[.{fingerprint=q1c7rlkmfz}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4651,14 +4651,14 @@
       "RelatedAsset": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xo68j7ulsb",
-      "Integrity": "4WJeeancmqMcDTFZaUvNU4QD08acUwdjb5aAUTP0IGc=",
+      "Fingerprint": "e3k0i1g7aq",
+      "Integrity": "RuRAcifq//2VeMha+n/K7VxkC0GvF9fVOtsDrsIylak=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.pdb"
     },
     {
-      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-48eucm4vz4.gz",
+      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-f9o1loampu.gz",
       "SourceId": "BlazorApp01.Client",
       "SourceType": "Computed",
       "ContentRoot": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -4672,8 +4672,8 @@
       "RelatedAsset": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5eodz03ksc",
-      "Integrity": "QxAveS91sHOODkVs5BQy+IcnRJsSHR++X4sLeiBHm9U=",
+      "Fingerprint": "crikgpimbj",
+      "Integrity": "+E8yqAL8PCZpRSi+BEU25FiwI/berS2bb/7H+8DRqnA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5981,12 +5981,12 @@
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.wasm"
     },
     {
-      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\cdryqux1vq-tswichycbp.gz",
+      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\cdryqux1vq-gcazcydns5.gz",
       "SourceId": "BlazorApp01.Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "appsettings.Development#[.{fingerprint=tswichycbp}]?.json.gz",
+      "RelativePath": "appsettings.Development#[.{fingerprint=gcazcydns5}]?.json.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5995,8 +5995,8 @@
       "RelatedAsset": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.Development.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qe8zb6ld57",
-      "Integrity": "UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ=",
+      "Fingerprint": "gcu0pgayfg",
+      "Integrity": "oLLVxI23UAY7butgVKzhCJJCFRpUaT/VvEelognOw9Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.Development.json"
@@ -6695,12 +6695,12 @@
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.wasm"
     },
     {
-      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\ibg7gsnjzu-tswichycbp.gz",
+      "Identity": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\ibg7gsnjzu-7ygm5rsu5v.gz",
       "SourceId": "BlazorApp01.Client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "appsettings#[.{fingerprint=tswichycbp}]?.json.gz",
+      "RelativePath": "appsettings#[.{fingerprint=7ygm5rsu5v}]?.json.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6709,8 +6709,8 @@
       "RelatedAsset": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qe8zb6ld57",
-      "Integrity": "UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ=",
+      "Fingerprint": "a1jpgmod8b",
+      "Integrity": "nhSdpaEkkX95Cn8aLlzfU5uMNxH8+/uROgqPnEBr8wI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.json"
@@ -8641,8 +8641,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "settings",
-      "Fingerprint": "tswichycbp",
-      "Integrity": "c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=",
+      "Fingerprint": "gcazcydns5",
+      "Integrity": "IAMytDR1egBUo9NWyRzeAfLEhxK+iqK8sPPpc2GfBuM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\appsettings.Development.json"
@@ -8662,8 +8662,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "settings",
-      "Fingerprint": "tswichycbp",
-      "Integrity": "c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=",
+      "Fingerprint": "7ygm5rsu5v",
+      "Integrity": "T7AxS2XvAeFYE9V8jKay16UXrsZ41jGE2aL8LaZpGyI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\appsettings.json"
@@ -8689,11 +8689,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fLijn6NyjWbjmRBA1Dzhr8UwSqApcHQYFakmyWORzAI=\""
+          "Value": "\"7Rm0ZDjnuNOLBQtssqC53MDTPC0pVOXrmYQ1XrG1/V8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:34 GMT"
+          "Value": "Wed, 05 Feb 2025 05:26:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8703,18 +8703,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fLijn6NyjWbjmRBA1Dzhr8UwSqApcHQYFakmyWORzAI="
+          "Value": "sha256-7Rm0ZDjnuNOLBQtssqC53MDTPC0pVOXrmYQ1XrG1/V8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-48eucm4vz4.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-f9o1loampu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081030711"
+          "Quality": "0.000081037277"
         }
       ],
       "ResponseHeaders": [
@@ -8724,15 +8724,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12340"
+          "Value": "12339"
         },
         {
           "Name": "ETag",
-          "Value": "\"QxAveS91sHOODkVs5BQy+IcnRJsSHR++X4sLeiBHm9U=\""
+          "Value": "\"+E8yqAL8PCZpRSi+BEU25FiwI/berS2bb/7H+8DRqnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 03:44:51 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8752,19 +8752,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fLijn6NyjWbjmRBA1Dzhr8UwSqApcHQYFakmyWORzAI=\""
+          "Value": "W/\"7Rm0ZDjnuNOLBQtssqC53MDTPC0pVOXrmYQ1XrG1/V8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fLijn6NyjWbjmRBA1Dzhr8UwSqApcHQYFakmyWORzAI="
+          "Value": "sha256-7Rm0ZDjnuNOLBQtssqC53MDTPC0pVOXrmYQ1XrG1/V8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-48eucm4vz4.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\287405qpkj-f9o1loampu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8773,7 +8773,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12340"
+          "Value": "12339"
         },
         {
           "Name": "Content-Type",
@@ -8781,11 +8781,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QxAveS91sHOODkVs5BQy+IcnRJsSHR++X4sLeiBHm9U=\""
+          "Value": "\"+E8yqAL8PCZpRSi+BEU25FiwI/berS2bb/7H+8DRqnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 03:44:51 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8803,7 +8803,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QxAveS91sHOODkVs5BQy+IcnRJsSHR++X4sLeiBHm9U="
+          "Value": "sha256-+E8yqAL8PCZpRSi+BEU25FiwI/berS2bb/7H+8DRqnA="
         }
       ]
     },
@@ -8945,7 +8945,7 @@
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.mnef9peaub.wasm",
+      "Route": "_framework/BlazorApp01.Client.1vuguujzvt.wasm",
       "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8963,11 +8963,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8gRnf1nE+NI8tJvS2uRUAXOg0aTHRxzyC3peBQB4gH4=\""
+          "Value": "\"w/nPPcA3VybglbAEUvCpadI+fH6XlewZIpgpUAe/WLA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:33 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8977,7 +8977,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mnef9peaub"
+          "Value": "1vuguujzvt"
         },
         {
           "Name": "label",
@@ -8985,18 +8985,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8gRnf1nE+NI8tJvS2uRUAXOg0aTHRxzyC3peBQB4gH4="
+          "Value": "sha256-w/nPPcA3VybglbAEUvCpadI+fH6XlewZIpgpUAe/WLA="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.mnef9peaub.wasm",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-mnef9peaub.gz",
+      "Route": "_framework/BlazorApp01.Client.1vuguujzvt.wasm",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-1vuguujzvt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000266666667"
+          "Quality": "0.000266808965"
         }
       ],
       "ResponseHeaders": [
@@ -9006,15 +9006,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3749"
+          "Value": "3747"
         },
         {
           "Name": "ETag",
-          "Value": "\"FHYYgV/idHkCn1oAMIlc6GBMHw7iQnw6Km2g6t8nmIA=\""
+          "Value": "\"aW3K5ekyU688e5UBgGNiDgmsVzl/LTq9HSSf5PbHAOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:34 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9034,13 +9034,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8gRnf1nE+NI8tJvS2uRUAXOg0aTHRxzyC3peBQB4gH4=\""
+          "Value": "W/\"w/nPPcA3VybglbAEUvCpadI+fH6XlewZIpgpUAe/WLA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mnef9peaub"
+          "Value": "1vuguujzvt"
         },
         {
           "Name": "label",
@@ -9048,13 +9048,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8gRnf1nE+NI8tJvS2uRUAXOg0aTHRxzyC3peBQB4gH4="
+          "Value": "sha256-w/nPPcA3VybglbAEUvCpadI+fH6XlewZIpgpUAe/WLA="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.mnef9peaub.wasm.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-mnef9peaub.gz",
+      "Route": "_framework/BlazorApp01.Client.1vuguujzvt.wasm.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-1vuguujzvt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9063,7 +9063,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3749"
+          "Value": "3747"
         },
         {
           "Name": "Content-Type",
@@ -9071,11 +9071,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FHYYgV/idHkCn1oAMIlc6GBMHw7iQnw6Km2g6t8nmIA=\""
+          "Value": "\"aW3K5ekyU688e5UBgGNiDgmsVzl/LTq9HSSf5PbHAOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:34 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9093,7 +9093,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mnef9peaub"
+          "Value": "1vuguujzvt"
         },
         {
           "Name": "label",
@@ -9101,7 +9101,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FHYYgV/idHkCn1oAMIlc6GBMHw7iQnw6Km2g6t8nmIA="
+          "Value": "sha256-aW3K5ekyU688e5UBgGNiDgmsVzl/LTq9HSSf5PbHAOw="
         }
       ]
     },
@@ -9124,11 +9124,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uhjA1/FucVWP+IxBSylgvH2WhXOwmWBmkTZDMHfxFT0=\""
+          "Value": "\"vmeaSWrdJLMvO8t1e3Ot7JSHq7ek2isLXYSOH4FBqa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:33 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9138,18 +9138,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uhjA1/FucVWP+IxBSylgvH2WhXOwmWBmkTZDMHfxFT0="
+          "Value": "sha256-vmeaSWrdJLMvO8t1e3Ot7JSHq7ek2isLXYSOH4FBqa8="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp01.Client.pdb",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-uuzzf2dbo2.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-q1c7rlkmfz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000103327134"
+          "Quality": "0.000103337811"
         }
       ],
       "ResponseHeaders": [
@@ -9159,15 +9159,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9677"
+          "Value": "9676"
         },
         {
           "Name": "ETag",
-          "Value": "\"4WJeeancmqMcDTFZaUvNU4QD08acUwdjb5aAUTP0IGc=\""
+          "Value": "\"RuRAcifq//2VeMha+n/K7VxkC0GvF9fVOtsDrsIylak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:34 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9187,19 +9187,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uhjA1/FucVWP+IxBSylgvH2WhXOwmWBmkTZDMHfxFT0=\""
+          "Value": "W/\"vmeaSWrdJLMvO8t1e3Ot7JSHq7ek2isLXYSOH4FBqa8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uhjA1/FucVWP+IxBSylgvH2WhXOwmWBmkTZDMHfxFT0="
+          "Value": "sha256-vmeaSWrdJLMvO8t1e3Ot7JSHq7ek2isLXYSOH4FBqa8="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp01.Client.pdb.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-uuzzf2dbo2.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-q1c7rlkmfz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9208,7 +9208,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9677"
+          "Value": "9676"
         },
         {
           "Name": "Content-Type",
@@ -9216,11 +9216,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4WJeeancmqMcDTFZaUvNU4QD08acUwdjb5aAUTP0IGc=\""
+          "Value": "\"RuRAcifq//2VeMha+n/K7VxkC0GvF9fVOtsDrsIylak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:34 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9238,12 +9238,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4WJeeancmqMcDTFZaUvNU4QD08acUwdjb5aAUTP0IGc="
+          "Value": "sha256-RuRAcifq//2VeMha+n/K7VxkC0GvF9fVOtsDrsIylak="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.uuzzf2dbo2.pdb",
+      "Route": "_framework/BlazorApp01.Client.q1c7rlkmfz.pdb",
       "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp01.Client.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9261,11 +9261,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uhjA1/FucVWP+IxBSylgvH2WhXOwmWBmkTZDMHfxFT0=\""
+          "Value": "\"vmeaSWrdJLMvO8t1e3Ot7JSHq7ek2isLXYSOH4FBqa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:33 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9275,7 +9275,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uuzzf2dbo2"
+          "Value": "q1c7rlkmfz"
         },
         {
           "Name": "label",
@@ -9283,18 +9283,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uhjA1/FucVWP+IxBSylgvH2WhXOwmWBmkTZDMHfxFT0="
+          "Value": "sha256-vmeaSWrdJLMvO8t1e3Ot7JSHq7ek2isLXYSOH4FBqa8="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.uuzzf2dbo2.pdb",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-uuzzf2dbo2.gz",
+      "Route": "_framework/BlazorApp01.Client.q1c7rlkmfz.pdb",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-q1c7rlkmfz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000103327134"
+          "Quality": "0.000103337811"
         }
       ],
       "ResponseHeaders": [
@@ -9304,15 +9304,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9677"
+          "Value": "9676"
         },
         {
           "Name": "ETag",
-          "Value": "\"4WJeeancmqMcDTFZaUvNU4QD08acUwdjb5aAUTP0IGc=\""
+          "Value": "\"RuRAcifq//2VeMha+n/K7VxkC0GvF9fVOtsDrsIylak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:34 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9332,13 +9332,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uhjA1/FucVWP+IxBSylgvH2WhXOwmWBmkTZDMHfxFT0=\""
+          "Value": "W/\"vmeaSWrdJLMvO8t1e3Ot7JSHq7ek2isLXYSOH4FBqa8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uuzzf2dbo2"
+          "Value": "q1c7rlkmfz"
         },
         {
           "Name": "label",
@@ -9346,13 +9346,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uhjA1/FucVWP+IxBSylgvH2WhXOwmWBmkTZDMHfxFT0="
+          "Value": "sha256-vmeaSWrdJLMvO8t1e3Ot7JSHq7ek2isLXYSOH4FBqa8="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorApp01.Client.uuzzf2dbo2.pdb.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-uuzzf2dbo2.gz",
+      "Route": "_framework/BlazorApp01.Client.q1c7rlkmfz.pdb.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\1xx059v4l0-q1c7rlkmfz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9361,7 +9361,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9677"
+          "Value": "9676"
         },
         {
           "Name": "Content-Type",
@@ -9369,11 +9369,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4WJeeancmqMcDTFZaUvNU4QD08acUwdjb5aAUTP0IGc=\""
+          "Value": "\"RuRAcifq//2VeMha+n/K7VxkC0GvF9fVOtsDrsIylak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:34 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9391,7 +9391,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uuzzf2dbo2"
+          "Value": "q1c7rlkmfz"
         },
         {
           "Name": "label",
@@ -9399,7 +9399,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4WJeeancmqMcDTFZaUvNU4QD08acUwdjb5aAUTP0IGc="
+          "Value": "sha256-RuRAcifq//2VeMha+n/K7VxkC0GvF9fVOtsDrsIylak="
         }
       ]
     },
@@ -9422,11 +9422,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8gRnf1nE+NI8tJvS2uRUAXOg0aTHRxzyC3peBQB4gH4=\""
+          "Value": "\"w/nPPcA3VybglbAEUvCpadI+fH6XlewZIpgpUAe/WLA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:33 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9436,18 +9436,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8gRnf1nE+NI8tJvS2uRUAXOg0aTHRxzyC3peBQB4gH4="
+          "Value": "sha256-w/nPPcA3VybglbAEUvCpadI+fH6XlewZIpgpUAe/WLA="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp01.Client.wasm",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-mnef9peaub.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-1vuguujzvt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000266666667"
+          "Quality": "0.000266808965"
         }
       ],
       "ResponseHeaders": [
@@ -9457,15 +9457,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3749"
+          "Value": "3747"
         },
         {
           "Name": "ETag",
-          "Value": "\"FHYYgV/idHkCn1oAMIlc6GBMHw7iQnw6Km2g6t8nmIA=\""
+          "Value": "\"aW3K5ekyU688e5UBgGNiDgmsVzl/LTq9HSSf5PbHAOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:34 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9485,19 +9485,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8gRnf1nE+NI8tJvS2uRUAXOg0aTHRxzyC3peBQB4gH4=\""
+          "Value": "W/\"w/nPPcA3VybglbAEUvCpadI+fH6XlewZIpgpUAe/WLA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8gRnf1nE+NI8tJvS2uRUAXOg0aTHRxzyC3peBQB4gH4="
+          "Value": "sha256-w/nPPcA3VybglbAEUvCpadI+fH6XlewZIpgpUAe/WLA="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp01.Client.wasm.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-mnef9peaub.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\11hcrn2kgc-1vuguujzvt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9506,7 +9506,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3749"
+          "Value": "3747"
         },
         {
           "Name": "Content-Type",
@@ -9514,11 +9514,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FHYYgV/idHkCn1oAMIlc6GBMHw7iQnw6Km2g6t8nmIA=\""
+          "Value": "\"aW3K5ekyU688e5UBgGNiDgmsVzl/LTq9HSSf5PbHAOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 04:41:34 GMT"
+          "Value": "Wed, 05 Feb 2025 05:17:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9536,7 +9536,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FHYYgV/idHkCn1oAMIlc6GBMHw7iQnw6Km2g6t8nmIA="
+          "Value": "sha256-aW3K5ekyU688e5UBgGNiDgmsVzl/LTq9HSSf5PbHAOw="
         }
       ]
     },
@@ -69141,13 +69141,13 @@
       ]
     },
     {
-      "Route": "appsettings.Development.json",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\cdryqux1vq-tswichycbp.gz",
+      "Route": "appsettings.7ygm5rsu5v.json",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\ibg7gsnjzu-7ygm5rsu5v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.008620689655"
+          "Quality": "0.006493506494"
         }
       ],
       "ResponseHeaders": [
@@ -69157,152 +69157,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "115"
+          "Value": "153"
         },
         {
           "Name": "ETag",
-          "Value": "\"UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ=\""
+          "Value": "\"nhSdpaEkkX95Cn8aLlzfU5uMNxH8+/uROgqPnEBr8wI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew="
-        }
-      ]
-    },
-    {
-      "Route": "appsettings.Development.json",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.Development.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "127"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew="
-        }
-      ]
-    },
-    {
-      "Route": "appsettings.Development.json.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\cdryqux1vq-tswichycbp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ="
-        }
-      ]
-    },
-    {
-      "Route": "appsettings.Development.tswichycbp.json",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\cdryqux1vq-tswichycbp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.008620689655"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
+          "Value": "Wed, 05 Feb 2025 04:58:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69322,179 +69185,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=\""
+          "Value": "W/\"T7AxS2XvAeFYE9V8jKay16UXrsZ41jGE2aL8LaZpGyI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tswichycbp"
+          "Value": "7ygm5rsu5v"
         },
         {
           "Name": "label",
-          "Value": "appsettings.Development.json"
+          "Value": "appsettings.json"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew="
+          "Value": "sha256-T7AxS2XvAeFYE9V8jKay16UXrsZ41jGE2aL8LaZpGyI="
         }
       ]
     },
     {
-      "Route": "appsettings.Development.tswichycbp.json",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.Development.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "127"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tswichycbp"
-        },
-        {
-          "Name": "label",
-          "Value": "appsettings.Development.json"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew="
-        }
-      ]
-    },
-    {
-      "Route": "appsettings.Development.tswichycbp.json.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\cdryqux1vq-tswichycbp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tswichycbp"
-        },
-        {
-          "Name": "label",
-          "Value": "appsettings.Development.json.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ="
-        }
-      ]
-    },
-    {
-      "Route": "appsettings.json",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\ibg7gsnjzu-tswichycbp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.008620689655"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew="
-        }
-      ]
-    },
-    {
-      "Route": "appsettings.json",
+      "Route": "appsettings.7ygm5rsu5v.json",
       "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.json",
       "Selectors": [],
       "ResponseHeaders": [
@@ -69504,7 +69214,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "127"
+          "Value": "205"
         },
         {
           "Name": "Content-Type",
@@ -69512,121 +69222,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=\""
+          "Value": "\"T7AxS2XvAeFYE9V8jKay16UXrsZ41jGE2aL8LaZpGyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew="
-        }
-      ]
-    },
-    {
-      "Route": "appsettings.json.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\ibg7gsnjzu-tswichycbp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ="
-        }
-      ]
-    },
-    {
-      "Route": "appsettings.tswichycbp.json",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\ibg7gsnjzu-tswichycbp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.008620689655"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
+          "Value": "Wed, 05 Feb 2025 04:58:52 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tswichycbp"
+          "Value": "7ygm5rsu5v"
         },
         {
           "Name": "label",
@@ -69634,13 +69244,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew="
+          "Value": "sha256-T7AxS2XvAeFYE9V8jKay16UXrsZ41jGE2aL8LaZpGyI="
         }
       ]
     },
     {
-      "Route": "appsettings.tswichycbp.json",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.json",
+      "Route": "appsettings.7ygm5rsu5v.json.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\ibg7gsnjzu-7ygm5rsu5v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -69649,7 +69259,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "127"
+          "Value": "153"
         },
         {
           "Name": "Content-Type",
@@ -69657,56 +69267,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=\""
+          "Value": "\"nhSdpaEkkX95Cn8aLlzfU5uMNxH8+/uROgqPnEBr8wI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tswichycbp"
-        },
-        {
-          "Name": "label",
-          "Value": "appsettings.json"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew="
-        }
-      ]
-    },
-    {
-      "Route": "appsettings.tswichycbp.json.gz",
-      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\ibg7gsnjzu-tswichycbp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:58:47 GMT"
+          "Value": "Wed, 05 Feb 2025 04:58:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69724,7 +69289,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tswichycbp"
+          "Value": "7ygm5rsu5v"
         },
         {
           "Name": "label",
@@ -69732,7 +69297,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UmgZYhCAh28IBPfRrf78XE8LMaNZsewsKDMAYtFUfWQ="
+          "Value": "sha256-nhSdpaEkkX95Cn8aLlzfU5uMNxH8+/uROgqPnEBr8wI="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.Development.gcazcydns5.json",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\cdryqux1vq-gcazcydns5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007407407407"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oLLVxI23UAY7butgVKzhCJJCFRpUaT/VvEelognOw9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 04:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IAMytDR1egBUo9NWyRzeAfLEhxK+iqK8sPPpc2GfBuM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gcazcydns5"
+        },
+        {
+          "Name": "label",
+          "Value": "appsettings.Development.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IAMytDR1egBUo9NWyRzeAfLEhxK+iqK8sPPpc2GfBuM="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.Development.gcazcydns5.json",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.Development.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IAMytDR1egBUo9NWyRzeAfLEhxK+iqK8sPPpc2GfBuM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 04:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gcazcydns5"
+        },
+        {
+          "Name": "label",
+          "Value": "appsettings.Development.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IAMytDR1egBUo9NWyRzeAfLEhxK+iqK8sPPpc2GfBuM="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.Development.gcazcydns5.json.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\cdryqux1vq-gcazcydns5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oLLVxI23UAY7butgVKzhCJJCFRpUaT/VvEelognOw9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 04:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gcazcydns5"
+        },
+        {
+          "Name": "label",
+          "Value": "appsettings.Development.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oLLVxI23UAY7butgVKzhCJJCFRpUaT/VvEelognOw9Q="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.Development.json",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\cdryqux1vq-gcazcydns5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007407407407"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oLLVxI23UAY7butgVKzhCJJCFRpUaT/VvEelognOw9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 04:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IAMytDR1egBUo9NWyRzeAfLEhxK+iqK8sPPpc2GfBuM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IAMytDR1egBUo9NWyRzeAfLEhxK+iqK8sPPpc2GfBuM="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.Development.json",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.Development.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IAMytDR1egBUo9NWyRzeAfLEhxK+iqK8sPPpc2GfBuM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 04:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IAMytDR1egBUo9NWyRzeAfLEhxK+iqK8sPPpc2GfBuM="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.Development.json.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\cdryqux1vq-gcazcydns5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oLLVxI23UAY7butgVKzhCJJCFRpUaT/VvEelognOw9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 04:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oLLVxI23UAY7butgVKzhCJJCFRpUaT/VvEelognOw9Q="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.json",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\ibg7gsnjzu-7ygm5rsu5v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006493506494"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nhSdpaEkkX95Cn8aLlzfU5uMNxH8+/uROgqPnEBr8wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 04:58:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"T7AxS2XvAeFYE9V8jKay16UXrsZ41jGE2aL8LaZpGyI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7AxS2XvAeFYE9V8jKay16UXrsZ41jGE2aL8LaZpGyI="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.json",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\wwwroot\\appsettings.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7AxS2XvAeFYE9V8jKay16UXrsZ41jGE2aL8LaZpGyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 04:58:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7AxS2XvAeFYE9V8jKay16UXrsZ41jGE2aL8LaZpGyI="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.json.gz",
+      "AssetFile": "D:\\DevSource\\Github\\NetCoreDokploy01\\BlazorApp01\\BlazorApp01\\BlazorApp01.Client\\obj\\Debug\\net9.0\\compressed\\ibg7gsnjzu-7ygm5rsu5v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nhSdpaEkkX95Cn8aLlzfU5uMNxH8+/uROgqPnEBr8wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 04:58:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nhSdpaEkkX95Cn8aLlzfU5uMNxH8+/uROgqPnEBr8wI="
         }
       ]
     }
